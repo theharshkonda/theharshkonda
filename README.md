@@ -22,16 +22,11 @@
 </P>
 
 <p align="center">
-  <a href="https://github.com/Sabikrahat/"><img src="https://komarev.com/ghpvc/?username=sabikrahat&label=Profile%20views&color=0e75b6&style=flat" alt="sabikrahat" /> </a>
-  <a href="https://github.com/Sabikrahat"><img src="https://img.shields.io/github/followers/Sabikrahat?label=Followers&style=social" alt="GitHub Badge"></a> 
-  <a href="https://github.com/Sabikrahat?tab=repositories"><img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=102" alt="GitHub Open Source Badge"></a> 
+  <a href="https://github.com/theharshkonda"><img src="https://komarev.com/ghpvc/?username=sabikrahat&label=Profile%20views&color=0e75b6&style=flat" alt="Harshvardhan" /> </a>
+  <a href="https://github.com/theharshkonda"><img src="https://img.shields.io/github/followers/theharshkonda?label=Followers&style=social" alt="GitHub Badge"></a> 
+  <a href="https://github.com/theharshkonda?tab=repositories"><img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=102" alt="GitHub Open Source Badge"></a> 
 </p>
 
-<!-- ## 🧮 Visitors Count
-
-<p align="center">
-  <img align="center" src = "https://profile-counter.glitch.me/sabikrahat/count.svg" alt ="Loading">
-</p> -->
 
 <br>
 
