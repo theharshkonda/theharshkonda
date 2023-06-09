@@ -29,9 +29,9 @@
 
 <p align="left">
 
-- 🔭 &nbsp; I’m currently Student at N B N Sinhgad College of Engineering, Solapur** <img src="assets/gifs/winking-face-joypixels.gif" height="22px" width="22px">
+- 🔭 &nbsp; I’m currently Student at **N B N Sinhgad College of Engineering, Solapur** <img src="assets/gifs/winking-face-joypixels.gif" height="22px" width="22px">
 
-- 🌱 &nbsp; I’m currently learning **Software Engineering ** <img src="assets/gifs/writing-hand-joypixels.gif" height="22px" width="22px">
+- 🌱 &nbsp; I’m currently learning **Software Engineering** <img src="assets/gifs/writing-hand-joypixels.gif" height="22px" width="22px">
 
 <!--- 👯 &nbsp; I’m looking to collaborate on **open source projects** <img src="assets/gifs/waving-hand-joypixels.gif" height="22px" width="22px">
 
