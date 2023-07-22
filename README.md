@@ -48,7 +48,7 @@
 </br>
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]() 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/abhinand-vk-1896a720a](https://www.linkedin.com/in/harshvardhan-konda-a26513231/)) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshvardhan-konda-a26513231/)
 
 <br>
 
