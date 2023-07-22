@@ -46,7 +46,7 @@
 <br/>
 <!-- [<img align="left" alt="sabikrahat | Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][instagram] -->
 
-## <h1> &nbsp; </h1>
+## <h1> Tech Stack &nbsp; </h1>
 
 <br>
 
