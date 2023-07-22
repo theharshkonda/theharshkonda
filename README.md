@@ -44,14 +44,14 @@
 <br>
 
 <br/>
-<!-- [<img align="left" alt="sabikrahat | Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][instagram] -->
-
-## <h1>&nbsp; </h1>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]() 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/abhinand-vk-1896a720a](https://www.linkedin.com/in/harshvardhan-konda-a26513231/)) 
 
 <br>
 
 
-  ## <b>💻 Tech Stack:</b>
+  # <b>💻 Tech Stack:</b>
   <br/>
   <p align="left>
   <a href="https://developer.android.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
@@ -72,6 +72,7 @@
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </br>
 
+<br>
 
 # 📊 GitHub Stats:
 </br>
