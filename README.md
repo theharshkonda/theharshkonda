@@ -51,7 +51,7 @@
 <br>
 
 
-  ## <b># 💻 Tech Stack:</b>
+  ## <b>💻 Tech Stack:</b>
   <br/>
   <p align="left>
   <a href="https://developer.android.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
@@ -69,10 +69,13 @@
   <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 
 <br>
-
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
 <br/>
-<a href="https://github.com/theharshkonda"><img alt="Harshvardhan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sabikrahat&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
+<br>
+📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=theharshkonda&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=theharshkonda&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=theharshkonda&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</br>
 
