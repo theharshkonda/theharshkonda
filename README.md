@@ -46,12 +46,12 @@
 <br/>
 <!-- [<img align="left" alt="sabikrahat | Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][instagram] -->
 
-## <h1> Tech Stack &nbsp; </h1>
+## <h1>&nbsp; </h1>
 
 <br>
 
-<!-- <details>
-  <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary> -->
+<details>
+  <summary><b>🛠#💻&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
   <br/>
   <p align="left>
   <a href="https://developer.android.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
