@@ -72,8 +72,8 @@
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </br>
 
-<br>
-## 📊 GitHub Stats:
+
+# 📊 GitHub Stats:
 </br>
 
 ![](https://github-readme-stats.vercel.app/api?username=theharshkonda&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
