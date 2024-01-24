@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harshvardhan Konda</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
--<p align="left">
 
 - 🔭 &nbsp; I’m currently pursuing my B.Tech (CSE) <img src="assets/gifs/winking-face-joypixels.gif" height="22px" width="22px">
--->
-- >
-<p>
 
 - 🌱 I’m currently learning **MERN Stack**
 
